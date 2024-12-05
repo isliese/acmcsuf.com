@@ -1,6 +1,6 @@
 # [`acmcsuf.com`][demo_url] 🐘
 
-> Official website of CSUF's ACM club.
+> Official website of CSUF's ACM(Association for Computing Machinery) club.
 
 [![Website Check](https://github.com/EthanThatOneKid/acmcsuf.com/actions/workflows/check_website.yaml/badge.svg)](https://github.com/EthanThatOneKid/acmcsuf.com/actions/workflows/check_website.yaml)
 
