@@ -4,6 +4,9 @@
 
 [![Website Check](https://github.com/EthanThatOneKid/acmcsuf.com/actions/workflows/check_website.yaml/badge.svg)](https://github.com/EthanThatOneKid/acmcsuf.com/actions/workflows/check_website.yaml)
 
+The open source software team is committed to fostering collaboration and innovation in the tech community. OSS actively contributes to ACM open source projects, sharing their expertise and driving advancements in software development.
+ 
+
 ## Develop [👩‍💻][netlify_dashboard]
 
 > 💡 This project runs on Node.js; [install the latest long-term support version][node_download].
